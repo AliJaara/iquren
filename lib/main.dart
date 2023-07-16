@@ -7,6 +7,8 @@ import 'module/native_code.dart';
 
 //hello
 //hello
+
+//register from ali
 void main() {
   runApp(const MyApp());
 }
