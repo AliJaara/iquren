@@ -5,7 +5,8 @@ import 'package:iquran_project/module/login/login_screen.dart';
 
 import 'module/native_code.dart';
 
-
+//hello
+//hello
 void main() {
   runApp(const MyApp());
 }
